@@ -35,6 +35,9 @@ Faça o [setup](#execute-o-back-end-em-seu-computador) em seu computador, depois
 
 ## Documentação da API
 
+### URL Base
+`http://127.0.0.1:3333`
+
 ### Usuários
 
 <details>
